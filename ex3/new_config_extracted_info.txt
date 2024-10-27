@@ -1,0 +1,19 @@
+Title: Sequential Kmeans, Total Time: 3769.235849 ms
+Title: Naive GPU Kmeans, Total Time: 570.793867 ms, Block Size: 32, GPU Time: 317.280293 ms, CPU - GPU Transfers: 20.661116 ms, CPU Time: 232.850552 ms
+Title: Naive GPU Kmeans, Total Time: 708.352089 ms, Block Size: 64, GPU Time: 455.537796 ms, CPU - GPU Transfers: 20.739555 ms, CPU Time: 232.074738 ms
+Title: Naive GPU Kmeans, Total Time: 711.727142 ms, Block Size: 128, GPU Time: 457.540035 ms, CPU - GPU Transfers: 20.643473 ms, CPU Time: 233.541727 ms
+Title: Naive GPU Kmeans, Total Time: 754.938126 ms, Block Size: 256, GPU Time: 504.071236 ms, CPU - GPU Transfers: 20.709038 ms, CPU Time: 230.155945 ms
+Title: Naive GPU Kmeans, Total Time: 918.796062 ms, Block Size: 512, GPU Time: 666.756392 ms, CPU - GPU Transfers: 20.671606 ms, CPU Time: 231.367111 ms
+Title: Naive GPU Kmeans, Total Time: 1095.510006 ms, Block Size: 1024, GPU Time: 759.209394 ms, CPU - GPU Transfers: 23.833275 ms, CPU Time: 312.465191 ms
+Title: Transpose GPU Kmeans, Total Time: 650.740862 ms, Block Size: 32, GPU Time: 139.597178 ms, CPU - GPU Transfers: 20.638466 ms, CPU Time: 490.505219 ms
+Title: Transpose GPU Kmeans, Total Time: 741.268873 ms, Block Size: 64, GPU Time: 229.166508 ms, CPU - GPU Transfers: 20.563364 ms, CPU Time: 491.537809 ms
+Title: Transpose GPU Kmeans, Total Time: 737.304211 ms, Block Size: 128, GPU Time: 228.005171 ms, CPU - GPU Transfers: 20.865679 ms, CPU Time: 488.433361 ms
+Title: Transpose GPU Kmeans, Total Time: 735.7409 ms, Block Size: 256, GPU Time: 225.902796 ms, CPU - GPU Transfers: 20.603657 ms, CPU Time: 489.233255 ms
+Title: Transpose GPU Kmeans, Total Time: 737.334967 ms, Block Size: 512, GPU Time: 224.949837 ms, CPU - GPU Transfers: 20.687342 ms, CPU Time: 491.69302 ms
+Title: Transpose GPU Kmeans, Total Time: 655.15995 ms, Block Size: 1024, GPU Time: 142.788887 ms, CPU - GPU Transfers: 20.647049 ms, CPU Time: 491.723061 ms
+Title: Shared GPU Kmeans, Total Time: 689.235926 ms, Block Size: 32, GPU Time: 183.680058 ms, CPU - GPU Transfers: 20.636082 ms, CPU Time: 484.916925 ms
+Title: Shared GPU Kmeans, Total Time: 761.684179 ms, Block Size: 64, GPU Time: 255.443573 ms, CPU - GPU Transfers: 20.687103 ms, CPU Time: 485.546589 ms
+Title: Shared GPU Kmeans, Total Time: 761.551857 ms, Block Size: 128, GPU Time: 256.404161 ms, CPU - GPU Transfers: 20.536184 ms, CPU Time: 484.608412 ms
+Title: Shared GPU Kmeans, Total Time: 760.987043 ms, Block Size: 256, GPU Time: 256.260395 ms, CPU - GPU Transfers: 20.517588 ms, CPU Time: 484.204054 ms
+Title: Shared GPU Kmeans, Total Time: 761.190176 ms, Block Size: 512, GPU Time: 256.17075 ms, CPU - GPU Transfers: 20.579576 ms, CPU Time: 484.43985 ms
+Title: Shared GPU Kmeans, Total Time: 760.87594 ms, Block Size: 1024, GPU Time: 254.839659 ms, CPU - GPU Transfers: 20.530701 ms, CPU Time: 485.499382 ms

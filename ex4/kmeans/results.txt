@@ -1,0 +1,14 @@
+dataset_size = 256.00 MB    numObjs = 2097152    numCoords = 16    numClusters = 16
+        nloops =  10   (total = 14.2551s)  (per loop =  1.4255s)
+dataset_size = 256.00 MB    numObjs = 2097152    numCoords = 16    numClusters = 16
+        nloops =  10   (total =  7.1490s)  (per loop =  0.7149s)
+dataset_size = 256.00 MB    numObjs = 2097152    numCoords = 16    numClusters = 16
+        nloops =  10   (total =  3.5734s)  (per loop =  0.3573s)
+dataset_size = 256.00 MB    numObjs = 2097152    numCoords = 16    numClusters = 16
+        nloops =  10   (total =  1.7944s)  (per loop =  0.1794s)
+dataset_size = 256.00 MB    numObjs = 2097152    numCoords = 16    numClusters = 16
+        nloops =  10   (total =  0.9055s)  (per loop =  0.0906s)
+dataset_size = 256.00 MB    numObjs = 2097152    numCoords = 16    numClusters = 16
+        nloops =  10   (total =  0.4672s)  (per loop =  0.0467s)
+dataset_size = 256.00 MB    numObjs = 2097152    numCoords = 16    numClusters = 16
+        nloops =  10   (total =  0.2422s)  (per loop =  0.0242s)

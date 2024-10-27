@@ -1,0 +1,7 @@
+MPI processes=1, total time=14.2551s
+MPI processes=2, total time=7.1490s
+MPI processes=4, total time=3.5734s
+MPI processes=8, total time=1.7944s
+MPI processes=16, total time=0.9055s
+MPI processes=32, total time=0.4672s
+MPI processes=64, total time=0.2422s
